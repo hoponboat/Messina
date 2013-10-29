@@ -1,32 +1,31 @@
 Identify major pieces of content.
 Header bar
-	logo
+        logo
 Navigation bar
-	Women's
-	Bath
-	Men's
-	Kitchen
+        Women's
+        Bath
+        Men's
+        Kitchen
 Main Content
-	section
-	  Title
-		2 paragraphs
-		Heading 
-		2 paragraphs
+        section
+          Title
+                2 paragraphs
+                Heading 
+                2 paragraphs
     aside
-    	search bar
-    	nav bar or list
+            search bar
+            nav bar or list
 Footer
-	section
-	  social media 
-	  social media 
-	section
-	  nav bar
-	  nav bar
-	  nav bar
-	  nav bar
-	section 
-	  contact us
-	  number
-	section
-	  logo
-
+        section
+          social media 
+          social media 
+        section
+          nav bar
+          nav bar
+          nav bar
+          nav bar
+        section 
+          contact us
+          number
+        section
+          logo
